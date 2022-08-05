@@ -1,0 +1,14 @@
+C:\Users\nihad\source\repos\HomeTask2\HomeTask2\bin\Debug\netcoreapp3.1\HomeTask2.exe
+C:\Users\nihad\source\repos\HomeTask2\HomeTask2\bin\Debug\netcoreapp3.1\HomeTask2.deps.json
+C:\Users\nihad\source\repos\HomeTask2\HomeTask2\bin\Debug\netcoreapp3.1\HomeTask2.runtimeconfig.json
+C:\Users\nihad\source\repos\HomeTask2\HomeTask2\bin\Debug\netcoreapp3.1\HomeTask2.runtimeconfig.dev.json
+C:\Users\nihad\source\repos\HomeTask2\HomeTask2\bin\Debug\netcoreapp3.1\HomeTask2.dll
+C:\Users\nihad\source\repos\HomeTask2\HomeTask2\bin\Debug\netcoreapp3.1\HomeTask2.pdb
+C:\Users\nihad\source\repos\HomeTask2\HomeTask2\obj\Debug\netcoreapp3.1\HomeTask2.csproj.AssemblyReference.cache
+C:\Users\nihad\source\repos\HomeTask2\HomeTask2\obj\Debug\netcoreapp3.1\HomeTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihad\source\repos\HomeTask2\HomeTask2\obj\Debug\netcoreapp3.1\HomeTask2.AssemblyInfoInputs.cache
+C:\Users\nihad\source\repos\HomeTask2\HomeTask2\obj\Debug\netcoreapp3.1\HomeTask2.AssemblyInfo.cs
+C:\Users\nihad\source\repos\HomeTask2\HomeTask2\obj\Debug\netcoreapp3.1\HomeTask2.csproj.CoreCompileInputs.cache
+C:\Users\nihad\source\repos\HomeTask2\HomeTask2\obj\Debug\netcoreapp3.1\HomeTask2.dll
+C:\Users\nihad\source\repos\HomeTask2\HomeTask2\obj\Debug\netcoreapp3.1\HomeTask2.pdb
+C:\Users\nihad\source\repos\HomeTask2\HomeTask2\obj\Debug\netcoreapp3.1\HomeTask2.genruntimeconfig.cache
